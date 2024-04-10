@@ -3,7 +3,7 @@ import dev from "$live/dev.ts";
 import tailwind from "deco-sites/std/tailwindv3.ts";
 import daisyui from "npm:daisyui@2.51.6";
 import tailwindConfig from "./tailwind.config.ts";
-import site from "./site.json" assert { type: "json" };
+import site from "./site.json" with { type: "json" };
 
 // Start tailwind background process generation
 tailwind({
