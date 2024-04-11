@@ -5,8 +5,8 @@ export default function Footer() {
       <div class="w-[50px] h-[50px] ml-auto mr-[50px]">
         <a href="https://instagram.com/_harpon " target="_blank">
           <img
-            class="w-[40px] mt-[50px] z-10 absolute"
-            src="https://img.icons8.com/color/48/000000/instagram-new.png"
+            class="mt-[50px] z-10 absolute"
+            src="instagram-icon.png"
             alt="Ícone do Instagram"
           >
           </img>
